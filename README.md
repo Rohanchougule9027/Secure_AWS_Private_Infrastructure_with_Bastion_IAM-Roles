@@ -25,7 +25,7 @@ A custom VPC was created to isolate the infrastructure.
 
 ---
 
-Subnets
+**Subnets**
 <!DOCTYPE html>
 <html>
 <head>
@@ -110,7 +110,7 @@ Configuration
 
 Security Hardening
 
-Security Group rules:
+**Security Group rules:**
 <!DOCTYPE html>
 <html>
 <head>   
@@ -160,7 +160,7 @@ Private EC2 Server
 * EC2 instance launched without public IP
 * Security group allows SSH only from Bastion Host
 
-Security Group example:
+**Security Group example:**
 <!DOCTYPE html>
 <html>
 <head>
