@@ -113,8 +113,7 @@ Security Hardening
 Security Group rules:
 <!DOCTYPE html>
 <html>
-<head>
-    
+<head>   
 </head>
 <body>
 
@@ -165,7 +164,6 @@ Security Group example:
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Security Group Rules</title>
 </head>
 <body>
 <h2></h2>
@@ -276,7 +274,6 @@ IAM roles replace access keys inside servers.
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
 </head>
 <body>
 
