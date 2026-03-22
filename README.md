@@ -29,7 +29,7 @@ Subnets
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Subnet Table</title>
+    
 </head>
 <body>
 
@@ -114,7 +114,7 @@ Security Group rules:
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Security Rule Table</title>
+    
 </head>
 <body>
 
